@@ -3,7 +3,6 @@ import subprocess
 import time
 import os
 
-uss_file = "/z/z26069/obrada1.txt"
 dataset = "Z26069.ZOAU.NEW1"
 
 try:
