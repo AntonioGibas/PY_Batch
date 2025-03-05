@@ -1,0 +1,12 @@
+Welcome to the CODE challenge!
+
+The current time is 05:22:00
+We hope you have fun in this challenge, Z26069
+By the way, if you add up all the numbers in your userid, you get 23
+That's pretty neat, right?
+code1 end.
+
+Nope. The letter z is NOT in the word pumpkin
+code2 end.
+
+SUCCESS
